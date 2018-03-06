@@ -1,0 +1,7 @@
+book_info:
+  path: 'book/info'
+  defaults:
+    _form: '\Drupal\book\Form\BookForm'
+    _title: 'Book Info'
+  requirements:
+    _permission: 'access content'

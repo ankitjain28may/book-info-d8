@@ -1,0 +1,6 @@
+name: Book
+description: A form to enter books details.
+core: 8.x
+package: Custom
+type: module
+hidden: false
